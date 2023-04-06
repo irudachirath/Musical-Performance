@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	D:\java\Musical_Performance\Musical_Performance.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\java\Musical_Performance\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\jdk-11.0.1
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_202\bin;C:\msys64\mingw64\bin;C:\Program Files\Git\cmd;C:\Users\Chirath\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Chirath\AppData\Local\Programs\Python\Python310\;C:\Users\Chirath\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Chirath\AppData\Local\Programs\Python\Python37-32\;C:\Users\Chirath\AppData\Local\Microsoft\WindowsApps;C:\jdk-11.0.1\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2021.3.2\bin;C:\Users\Chirath\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin;C:\jdk-11.0.1\bin
+JRE paths:	C:\jdk-11.0.1;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_202\bin;C:\msys64\mingw64\bin;C:\Program Files\Git\cmd;C:\Users\Chirath\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Chirath\AppData\Local\Programs\Python\Python310\;C:\Users\Chirath\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Chirath\AppData\Local\Programs\Python\Python37-32\;C:\Users\Chirath\AppData\Local\Microsoft\WindowsApps;C:\jdk-11.0.1\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2021.3.2\bin;C:\Users\Chirath\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin;C:\jdk-11.0.1\bin
+Check launcher:	C:\jdk-11.0.1\bin\javaw.exe (OK)
+Version string: 1.011.000_001 / 64-Bit (OK)
+Launcher:	C:\jdk-11.0.1\bin\javaw.exe
+Launcher args:	-jar "D:\java\Musical_Performance\Musical_Performance.exe"
+Args length:	58/32768 chars
+Exit code:	0
