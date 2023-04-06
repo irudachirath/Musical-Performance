@@ -9,26 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc063b7c-2829-4e7e-8162-a6241fa9d5ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Musical_Performance_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Musical_Performance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artist/Artists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artist/BackupDancers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artist/BackupSingers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artist/IBackup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artist/Singers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivePerformances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicalPerformance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Performances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudioPerformance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Track.java" afterDir="false" />
-    </list>
+    <list default="true" id="fc063b7c-2829-4e7e-8162-a6241fa9d5ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
